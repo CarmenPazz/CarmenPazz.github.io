@@ -142,7 +142,7 @@ Creo que ha quedado bastante completo, aunque me habría gustado añadirle algú
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">licencia de Creative Commons Reconocimiento 4.0 Internacional</a>.
 
 https://creativecommons.org/licenses/?lang=es
 
